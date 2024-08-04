@@ -1,6 +1,8 @@
 # CrazyCraft4
 
-Some Useful links:
+Server Ip: 
+
+Some Useful links: shewlzy.playit.gg
 
 Void launcher download [link](https://voidswrath.com/voidlauncher/)
 
